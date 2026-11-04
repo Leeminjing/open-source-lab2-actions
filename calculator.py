@@ -2,7 +2,7 @@
 
 
 def add(a, b):
-    return a * b  # Intentional error for the lab failure demonstration.
+    return a + b
 
 
 def multiply(a, b):
